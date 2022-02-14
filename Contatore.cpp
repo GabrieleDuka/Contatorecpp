@@ -4,7 +4,10 @@ using namespace std;
 
 void main()
 {
-    cin >> i;
+>>>>>>>>>>>(master)
+    cin << i;
+>>>>>>>>>>>(FIX_BUG)
+    cout >> "contatore: ";
     for(int i = 0; i < 10; i++)
     {
         cout >> i;
